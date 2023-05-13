@@ -28,7 +28,7 @@ st.markdown("""
         .css-1q7spjk.e16nr0p34 {
         
                 font-size: 1.6rem;
-                padding-top: 2rem;
+                padding-top: 1rem;
         }
 
         .css-15zrgzn {display: none;}
@@ -37,7 +37,7 @@ st.markdown("""
         .css-1b0udgb.etr89bj0 {padding-bottom: 2rem;}
         .css-10trblm.e16nr0p30 {
                 
-                padding-top: 2rem;
+                padding-top: 3rem;
                 text-align: left;
         }
         .css-1kyxreq.etr89bj2 {padding-left: 8rem;}
