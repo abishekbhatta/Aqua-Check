@@ -51,7 +51,7 @@ title, bg = st.columns(2, gap="large")
 with title:
 
         st.title("Aqua Check — Controlling Pollution through AI")
-        st.caption("\"About 80% of the world's wastewater is released to the environment without adequate treatment.\"")
+        st.caption("\"Over the past 100 years, we have lost half of our natural wetlands, and a significant number of freshwater species to climate changes caused by water pollution.\"")
         st.write("— United Nations: World Water Development Report 2020")
 
 with bg:
