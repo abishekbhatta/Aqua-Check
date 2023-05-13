@@ -34,7 +34,7 @@ st.markdown("""
         .css-15zrgzn {display: none;}
         .css-eczf16 {display: none;}
         .css-jn99sy {display: none;}
-        .css-1b0udgb.etr89bj0 {padding-bottom: 2rem;}
+        .css-1b0udgb.etr89bj0 {padding-bottom: 3rem;}
         .css-10trblm.e16nr0p30 {
                 
                 padding-top: 3rem;
