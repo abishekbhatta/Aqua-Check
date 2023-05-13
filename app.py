@@ -57,6 +57,8 @@ with title:
 with bg:
         st.image("media/water_pollution_vector_art.jpg", width=400, caption="Image by brgfx on Freepik")
 
+st.divider()
+
 col1, col2, col3 = st.columns(3, gap="large")
 
 with col1:
