@@ -4,7 +4,7 @@ import time
 from model import RFC, df
 
 
-st.set_page_config(page_title="app • Aqua Check", page_icon="media/favicon.png", layout="wide")
+st.set_page_config(page_title="app | Aqua Check", page_icon="media/favicon.png", layout="wide")
 
 st.markdown("""
         <style>
