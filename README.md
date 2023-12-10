@@ -38,3 +38,6 @@ Throughout the project, I learned to deploy a machine learning model into a web 
 # What's next for Aqua Check?
 
 The machine learning model used in Aqua Check can be further enhanced to make its predictions more accurate. In the future, Aqua Check can be integrated into a physical device with sensors that can simultaneously measure pH values, water hardness, etc. listed above and predict water contamination.
+
+# Demo
+https://abishekbhatta-aqua-check-app-xnqa0c.streamlit.app/
