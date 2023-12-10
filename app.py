@@ -42,7 +42,7 @@ with title:
         st.caption("\"Over the past 100 years, we have lost half of our natural wetlands, and a significant number of freshwater species to climate changes caused by water pollution.\"")
         st.write("— United Nations: World Water Development Report 2020")
 with bg:
-        st.image("media/water_pollution_vector_art.jpg", width=400, caption="Image by brgfx on Freepik")
+        st.image("media/water_pollution_vector_art.jpg", width=400)
 st.divider()
 col1, col2, col3 = st.columns(3, gap="large")
 with col1:
