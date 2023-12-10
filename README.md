@@ -1,6 +1,6 @@
 # Aqua Check
 
-Controlling pollution through AI.
+![Aqua-Check](https://github.com/abishekbhatta/Aqua-Check/assets/131245708/a2100caa-fb84-4c6b-9a36-b299fdec495b)
 
 # Inspiration
 
