@@ -1,3 +1,7 @@
+# Aqua Check
+
+Controlling pollution through AI.
+
 # Inspiration
 
 Water pollution today has led to various detrimental impacts on the environment, like eutrophication, the loss of entire aquatic species, and plastic ingestion. Hence, there is a strong need to control water pollution to protect our environment, and the first step would be checking whether water sources are contaminated or not before carrying out any cleaning campaigns.
@@ -31,6 +35,6 @@ As a solo participant using a totally new framework, I was able to build a fully
 
 Throughout the project, I learned to deploy a machine learning model into a web app using Streamlit. I also gained valuable experience in optimizing the machine learning model using Z-score normalization and oversampling techniques.
 
-# What's next for Aqua Check
+# What's next for Aqua Check?
 
 The machine learning model used in Aqua Check can be further enhanced to make its predictions more accurate. In the future, Aqua Check can be integrated into a physical device with sensors that can simultaneously measure pH values, water hardness, etc. listed above and predict water contamination.
