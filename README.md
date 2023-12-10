@@ -1,6 +1,6 @@
 # Aqua Check
 
-![Aqua-Check](https://github.com/abishekbhatta/Aqua-Check/assets/131245708/a2100caa-fb84-4c6b-9a36-b299fdec495b)
+[![Video](https://img.youtube.com/vi/bS5incV2Yxc/maxresdefault.jpg)](https://www.youtube.com/watch?v=bS5incV2Yxc)
 
 # Inspiration
 
@@ -38,6 +38,3 @@ Throughout the project, I learned to deploy a machine learning model into a web 
 # What's next for Aqua Check?
 
 The machine learning model used in Aqua Check can be further enhanced to make its predictions more accurate. In the future, Aqua Check can be integrated into a physical device with sensors that can simultaneously measure pH values, water hardness, etc. listed above and predict water contamination.
-
-# Demo
-https://abishekbhatta-aqua-check-app-xnqa0c.streamlit.app/
