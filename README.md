@@ -8,7 +8,7 @@ Water pollution today has led to various detrimental impacts on the environment,
 
 Water contamination can be checked in the lab by performing different tests, but it takes more time for the results to be prepared, ultimately delaying the cleaning campaigns. Therefore, to speed up the checking process, I have built Aqua Check, which uses an automated process to identify water contamination.
 
-# What it does
+# What it does?
 
 Unlike lab tests on water samples, Aqua Check uses a machine learning model and a water pollution dataset to detect whether water is polluted or not and then displays the results to the user. To make the prediction, it takes the following values from a water sample as input:
 
@@ -19,7 +19,7 @@ Unlike lab tests on water samples, Aqua Check uses a machine learning model and 
 - Conductivity
 - Turbidity
 
-# How I built it
+# How I built it?
 
 The machine learning model used in Aqua Check is the Random Forest Classifier. I implemented it using Python’s scikit-learn library. To make the model more user-friendly, I deployed it into a web app using the Streamlit framework. Besides, I also used some CSS to tweak certain features in Streamlit.
 
@@ -31,7 +31,7 @@ First, I was working solo, so I had to manage all the tasks on my own. Second, t
 
 As a solo participant using a totally new framework, I was able to build a fully functional machine learning app that addressed a serious environmental concern in my first ever hackathon.
 
-# What I learned
+# What I learned?
 
 Throughout the project, I learned to deploy a machine learning model into a web app using Streamlit. I also gained valuable experience in optimizing the machine learning model using Z-score normalization and oversampling techniques.
 
