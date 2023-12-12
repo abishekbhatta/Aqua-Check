@@ -21,10 +21,6 @@ The machine learning model used in Aqua Check is the Random Forest Classifier. I
 
 First, I was working solo, so I had to manage all the tasks on my own. Second, there were numerous machine learning algorithms to choose from, so I had to spend hours testing each to figure out the most efficient algorithm before actually implementing it. Third, I had no experience with Streamlit, so I had to go through its documentation on implementing different APIs and fixing errors as they appeared.
 
-# Accomplishments that I'm proud of
-
-As a solo participant using a totally new framework, I was able to build a fully functional machine learning app that addressed a serious environmental concern in my first ever hackathon.
-
 # What I learned?
 
 Throughout the project, I learned to deploy a machine learning model into a web app using Streamlit. I also gained valuable experience in optimizing the machine learning model using Z-score normalization and oversampling techniques.
