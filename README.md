@@ -2,12 +2,6 @@
 
 [![Video](https://img.youtube.com/vi/bS5incV2Yxc/maxresdefault.jpg)](https://www.youtube.com/watch?v=bS5incV2Yxc)
 
-# Inspiration
-
-Water pollution today has led to various detrimental impacts on the environment, like eutrophication, the loss of entire aquatic species, and plastic ingestion. Hence, there is a strong need to control water pollution to protect our environment, and the first step would be checking whether water sources are contaminated or not before carrying out any cleaning campaigns.
-
-Water contamination can be checked in the lab by performing different tests, but it takes more time for the results to be prepared, ultimately delaying the cleaning campaigns. Therefore, to speed up the checking process, I have built Aqua Check, which uses an automated process to identify water contamination.
-
 # What it does?
 
 Unlike lab tests on water samples, Aqua Check uses a machine learning model and a water pollution dataset to detect whether water is polluted or not and then displays the results to the user. To make the prediction, it takes the following values from a water sample as input:
